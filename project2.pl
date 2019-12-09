@@ -1,16 +1,11 @@
 % Project 2 CPSC312 Haskell
 % Poke Simulator  
-% TaeGyun Lim - 25983157
+% TaeGyun(William) Lim - 25983157
 % Do Hoon Lee - 26404153
 % Hyehwa (Jennifer) Lee - 88516265
 
-% Level is fixed at 50, IVs are fixed at 31
 
-% NB multiplies final stats by 1.1, ND multiplies final stats by 0.9 
-% mypokemon can have four moves from the available moves
-% Distribute 510 EVs to stats of your choice, maximum for each is 252. 
-% mypokemon(Pokemon, NB, ND, Moveset, EV)
-
+WELCOME TO POKE SIMULATOR
 
 % 1. turn one of the players to computer:
 % - randomly picks a pokemon and attacks
