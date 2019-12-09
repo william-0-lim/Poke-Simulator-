@@ -5,7 +5,7 @@
 % Hyehwa (Jennifer) Lee - 88516265
 
 
-WELCOME TO POKE SIMULATOR
+% WELCOME TO POKE SIMULATOR
 
 % 1. turn one of the players to computer:
 % - randomly picks a pokemon and attacks
